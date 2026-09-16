@@ -1,6 +1,6 @@
 # Hey, I'm Chaitanya 👋
 
-I'm **Chaitanya Raj Shah**, a Data Science & AI student at Florida International University.
+I'm **Chaitanya Raj Shah**, a Data Science & AI student at **Honors College Florida International University**.
 
 I like working on problems where **math, AI, data, and real-world decision making** come together. Most of the time I'm either building something, learning something new, teaching someone, or somehow doing all three at once 😭
 
@@ -12,7 +12,7 @@ I'm especially interested in machine learning, statistical modeling, LLMs, RAG, 
 
 Right now, I'm an **AI/ML Research Assistant in the Saeed Lab at FIU**, where I work with real-world datasets and computational research problems.
 
-I'm also part of the **Break Through Tech AI Fellowship**, and I'm currently working on a KPMG-sponsored AI Studio project involving research retrieval, RAG, LLMs, and turning technical AI research into useful business insights.
+I'm also part of the **Break Through Tech AI Fellowship**, and I'm currently working on a **KPMG**- AI Studio project involving research retrieval, RAG, LLMs, and turning technical AI research into useful business insights.
 
 Research is something I've started enjoying a lot because I like asking questions where the answer isn't obvious yet.
 
