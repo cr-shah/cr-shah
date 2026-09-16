@@ -60,7 +60,7 @@ That's why I've enjoyed competing in business and analytics competitions too.
 🏆 **AIS × ATOM Business Analytics Competition**  
 My team built **ChargeForward**, an EV-focused analytics project, and received recognition for **Best Business Analytics Project**.
 
-🔗 [ChargeForward project link]
+🔗 [[](https://github.com/cr-shah/chargeforward-ev-analytics)]
 
 🚀 **Blackstone LaunchPad – Idea to Impact**  
 Placed **3rd** and received **$3,000** through the competition.
