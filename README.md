@@ -1,4 +1,4 @@
-# Hey, I'm Chaitanya 👋
+# Hey, I'm Shah Chaitanya 👋
 
 I'm **Chaitanya Raj Shah**, a Data Science & AI student at **Honors College Florida International University**.
 
