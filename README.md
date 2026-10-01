@@ -30,7 +30,7 @@ I've helped students with things like:
 - 🧮 Precalculus
 - 💻 Data Structures
 - 🐍 Programming
-- 🤖 Introductory AI concepts
+- 🤖 Introductory AI course
 
 I also worked as a **STARS Tutor for Data Structures**.
 
